@@ -2365,41 +2365,46 @@ body {
 .cid-qLW0YM8DxU .google-map[data-state="loading"] [data-state-details] {
   display: none;
 }
-.cid-qLW1UYVVA9 {
+.cid-qMc03omHrs {
   padding-top: 105px;
-  padding-bottom: 60px;
+  padding-bottom: 105px;
   background-color: #ffffff;
+  position: relative;
 }
-.cid-qLW1UYVVA9 .counter-container {
+.cid-qMc03omHrs p {
   color: #767676;
 }
-.cid-qLW1UYVVA9 .counter-container ul {
+.cid-qMc03omHrs .card {
+  border-radius: 0px;
+  margin-bottom: -1px;
+}
+.cid-qMc03omHrs .card .card-header {
+  border-radius: 0px;
+  border: 0px;
+  padding: 0;
+}
+.cid-qMc03omHrs .card .card-header a.panel-title {
+  margin-bottom: 0;
+  margin-top: -1px;
+  font-weight: 500;
+  font-style: normal;
+  display: block;
+  text-decoration: none !important;
+  line-height: normal;
+}
+.cid-qMc03omHrs .card .card-header a.panel-title:focus {
+  text-decoration: none !important;
+}
+.cid-qMc03omHrs .card .card-header a.panel-title h4 {
+  border: 1px solid #dfdfdf;
+  padding: 1.3rem 2rem;
   margin-bottom: 0;
 }
-.cid-qLW1UYVVA9 .counter-container ul li {
-  margin-bottom: 1rem;
-  list-style: none;
+.cid-qMc03omHrs .card .card-header a.panel-title h4 .sign {
+  padding-right: 1rem;
 }
-.cid-qLW1UYVVA9 .counter-container ul li:before {
-  position: absolute;
-  left: 0px;
-  margin-top: -10px;
-  padding-top: 3px;
-  content: '';
-  display: inline-block;
-  text-align: center;
-  margin: 5px 10px;
-  line-height: 20px;
-  transition: all .2s;
-  color: #ffffff;
-  background: #149dcc;
-  width: 25px;
-  height: 25px;
-  border-radius: 50%;
-  content: '✓';
-}
-.cid-qLW1UYVVA9 .mbr-text UL {
-  text-align: left;
+.cid-qMc03omHrs P {
+  color: #232323;
 }
 .cid-qLW0cH4JNv .navbar {
   background: #ffffff;
